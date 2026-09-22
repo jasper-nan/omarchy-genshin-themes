@@ -25,8 +25,8 @@
 
 - `colors.toml` — 完整调色板（18 语义色 + 4 层背景），顶部有设计思路注释
 - `icons.theme` — 配套 Yaru 图标色
-- `backgrounds/1-<角色>.jpg` — 3840×2160 主题壁纸
-- `backgrounds/2-abstract.jpg` — 同色系纯渐变壁纸（`omarchy theme bg next` 切换）
+- `backgrounds/` — 4~5 张 3840×2160 壁纸（主图 + 社区备选 + 纯渐变 + 立绘合成，
+  `omarchy theme bg next` 循环切换）
 
 ## 安装
 
@@ -45,14 +45,16 @@ omarchy theme set "Hu Tao"   # 试试胡桃
 
 每张壁纸顶部叠有 260px 的主题底色渐变暗带（底部 150px）。这样即使
 `shell.json` 里 `"transparent": true`（文字直接压壁纸），Omarchy 的
-`omarchy-bar-text-color` 采样也永远命中深色区。11 个主题实测对比度
-8.5:1 ~ 15:1（WCAG AAA 标准 7:1）。
+`omarchy-bar-text-color` 采样也永远命中深色区。全库 43 张壁纸实测对比度
+4.7:1 ~ 15.3:1（WCAG AA 4.5:1，AAA 7:1）。
 
 ## 改配色 / 重制壁纸
 
 1. 编辑 `themes/<slug>/colors.toml`（各键含义见文件内注释）
 2. 如需重制壁纸：把角色原图放 `themes/<slug>/src/art.png`，运行
-   `bin/compose-wallpapers.sh themes/<slug> <slug> compose`
+   `bin/compose-wallpapers.sh themes/<slug> <slug> compose`；
+   已有 4K 原图放 `src/wallpaper.img` 则用 `direct` 模式
+   （合成输出为 `5-composed.jpg`，主图建议用社区高收藏 4K 壁纸）
 3. `omarchy theme set <主题名>` 重新应用
 
 ## 致谢与版权声明
@@ -61,4 +63,4 @@ omarchy theme set "Hu Tao"   # 试试胡桃
 - 壁纸素材基于米哈游《原神》官方角色立绘及社区壁纸二次合成，
   © miHoYo / HoYoverse。本项目为非商业粉丝作品，与 miHoYo / HoYoverse
   无关联，不官方授权。若权利方要求，将立即下架相关素材。
-- 部分壁纸素材来自搜图神器聚合的社区资源，感谢原作者。
+- 部分壁纸素材来自 Wallhaven 社区与搜图神器聚合资源，感谢原作者与分享者。
