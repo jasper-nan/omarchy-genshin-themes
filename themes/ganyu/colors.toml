@@ -1,0 +1,33 @@
+# Ganyu 甘雨 — 冰莲 · 璃月 · 霜华
+# 冰川深蓝底色 + 冰晶青强调 + 淡金点缀
+mode = "dark"
+
+accent = "#9fd8e8"
+selection = "#25394a"
+muted = "#51707f"
+
+background = "#0e1922"
+dark_background = "#0a131b"
+darker_background = "#070e14"
+lighter_background = "#16252f"
+
+foreground = "#d3e4ec"
+dark_foreground = "#6b8494"
+light_foreground = "#ddeaf1"
+bright_foreground = "#e8f3f8"
+
+red = "#eba8b4"
+yellow = "#e9d9a0"
+orange = "#eec3a0"
+green = "#a8dcc8"
+cyan = "#9fd8e8"
+blue = "#8fb8e8"
+magenta = "#c5b1ec"
+brown = "#8a7663"
+
+bright_red = "#f4bcc6"
+bright_yellow = "#f2e6b5"
+bright_green = "#bdeed8"
+bright_cyan = "#bde8f2"
+bright_blue = "#adcff5"
+bright_magenta = "#d4c4f2"

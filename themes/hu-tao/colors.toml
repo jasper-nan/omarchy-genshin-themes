@@ -1,0 +1,33 @@
+# Hu Tao 胡桃 — 彼岸蝶舞 · 璃月 · 往生堂
+# 绛梅底色 + 朱砂强调 + 鎏金与梅紫点缀
+mode = "dark"
+
+accent = "#f2887c"
+selection = "#3d2229"
+muted = "#6e4a52"
+
+background = "#1a1013"
+dark_background = "#130b0e"
+darker_background = "#0d0709"
+lighter_background = "#26161b"
+
+foreground = "#ecd8d8"
+dark_foreground = "#8f6a6e"
+light_foreground = "#f2e2e2"
+bright_foreground = "#faeeee"
+
+red = "#f07a6e"
+yellow = "#eec98b"
+orange = "#efa87a"
+green = "#b5d9a3"
+cyan = "#96d4d4"
+blue = "#9db4e8"
+magenta = "#d98bc4"
+brown = "#96685a"
+
+bright_red = "#f8968a"
+bright_yellow = "#f5dda5"
+bright_green = "#c6e8b5"
+bright_cyan = "#aee4e4"
+bright_blue = "#b0c5f2"
+bright_magenta = "#e5a5d4"

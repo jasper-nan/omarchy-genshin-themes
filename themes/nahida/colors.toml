@@ -1,0 +1,33 @@
+# Nahida 纳西妲 — 白草净善 · 须弥 · 智慧之神
+# 深林底色 + 净草新绿强调 + 智慧金点缀
+mode = "dark"
+
+accent = "#a3d99b"
+selection = "#22332a"
+muted = "#4f6b58"
+
+background = "#101a14"
+dark_background = "#0b130e"
+darker_background = "#070d09"
+lighter_background = "#16241c"
+
+foreground = "#d9e5d5"
+dark_foreground = "#6f8a76"
+light_foreground = "#e3ede0"
+bright_foreground = "#eef5ec"
+
+red = "#e89a9a"
+yellow = "#e9d58b"
+orange = "#e8b585"
+green = "#a3d99b"
+cyan = "#8fd4c5"
+blue = "#9cb8e8"
+magenta = "#d1a8e0"
+brown = "#9a7d5f"
+
+bright_red = "#f2b0b0"
+bright_yellow = "#f2e4a5"
+bright_green = "#bceab5"
+bright_cyan = "#a8e4d8"
+bright_blue = "#b0c9f2"
+bright_magenta = "#dfc0ea"

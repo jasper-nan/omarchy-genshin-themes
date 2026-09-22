@@ -1,0 +1,33 @@
+# Kamisato Ayaka 神里绫华 — 白鹭霜华 · 稻妻 · 冰
+# 浅色主题: 霜白底色 + 冰蓝强调 + 樱色点缀
+mode = "light"
+
+accent = "#3f8ec4"
+selection = "#c9dcea"
+muted = "#8fa4b5"
+
+background = "#f0f4f8"
+dark_background = "#e4ebf2"
+darker_background = "#d8e2eb"
+lighter_background = "#dfe7ef"
+
+foreground = "#37475a"
+dark_foreground = "#93a5b5"
+light_foreground = "#4c5d70"
+bright_foreground = "#2c3a4a"
+
+red = "#d9536f"
+yellow = "#c9922e"
+orange = "#d97a45"
+green = "#3f9f6e"
+cyan = "#2e8fa6"
+blue = "#3f7fc4"
+magenta = "#a86cc4"
+brown = "#7a5b3e"
+
+bright_red = "#c43d59"
+bright_yellow = "#b08126"
+bright_green = "#34855c"
+bright_cyan = "#257b90"
+bright_blue = "#356cb0"
+bright_magenta = "#9557b2"

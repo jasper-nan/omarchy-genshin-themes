@@ -1,0 +1,33 @@
+# Klee 可莉 — 蒙德 · 火花骑士 · 蹦蹦炸弹
+# 暖夜底色 + 火花珊瑚强调 + 蒲公英金点缀
+mode = "dark"
+
+accent = "#ff9d68"
+selection = "#33201a"
+muted = "#6b5147"
+
+background = "#1d110b"
+dark_background = "#150c07"
+darker_background = "#0e0705"
+lighter_background = "#281810"
+
+foreground = "#efe0d4"
+dark_foreground = "#8f7568"
+light_foreground = "#f4e8de"
+bright_foreground = "#faf2ea"
+
+red = "#f06a5a"
+yellow = "#ffc94d"
+orange = "#ff9d68"
+green = "#b5cf8f"
+cyan = "#8fd1cf"
+blue = "#8fb0e8"
+magenta = "#e08fc0"
+brown = "#a06d50"
+
+bright_red = "#ff8577"
+bright_yellow = "#ffd975"
+bright_green = "#c6df9e"
+bright_cyan = "#a8e0de"
+bright_blue = "#a8c5f0"
+bright_magenta = "#eda5d1"

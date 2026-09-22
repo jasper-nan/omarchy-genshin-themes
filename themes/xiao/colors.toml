@@ -1,0 +1,33 @@
+# Xiao 魈 — 护法夜叉 · 璃月 · 降魔大圣
+# 玄墨底色 + 翠玉强调 + 夜叉鎏金点缀
+mode = "dark"
+
+accent = "#a8d9c3"
+selection = "#1c2a2b"
+muted = "#48615f"
+
+background = "#0a0f11"
+dark_background = "#070b0c"
+darker_background = "#050808"
+lighter_background = "#0f1719"
+
+foreground = "#d2e2dc"
+dark_foreground = "#67807b"
+light_foreground = "#dceae4"
+bright_foreground = "#e8f4ef"
+
+red = "#e88a8a"
+yellow = "#e0c585"
+orange = "#e5a87e"
+green = "#8fd0a8"
+cyan = "#7fc9c9"
+blue = "#8aabd9"
+magenta = "#b8a0d9"
+brown = "#8a705a"
+
+bright_red = "#f2a3a3"
+bright_yellow = "#eeda9e"
+bright_green = "#a8e0bd"
+bright_cyan = "#98d8d8"
+bright_blue = "#a3c1e8"
+bright_magenta = "#cab8e8"

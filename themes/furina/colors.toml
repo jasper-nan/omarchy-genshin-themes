@@ -1,0 +1,33 @@
+# Furina 芙宁娜 — 众水 · 须弥 · 枫丹
+# 深海蓝底色 + 水神青金强调 + 枫丹鎏金点缀
+mode = "dark"
+
+accent = "#82c9ea"
+selection = "#1f2c44"
+muted = "#4a5d7d"
+
+background = "#0c1524"
+dark_background = "#09101c"
+darker_background = "#060b13"
+lighter_background = "#122036"
+
+foreground = "#d4e2f0"
+dark_foreground = "#6b809c"
+light_foreground = "#dfeaf5"
+bright_foreground = "#e9f2fa"
+
+red = "#eb9a9a"
+yellow = "#e9d08b"
+orange = "#ecb585"
+green = "#9dd9b5"
+cyan = "#82c9ea"
+blue = "#6ba3e8"
+magenta = "#c9a8e8"
+brown = "#8a7358"
+
+bright_red = "#f4b0b0"
+bright_yellow = "#f2dfa0"
+bright_green = "#b5e8ca"
+bright_cyan = "#a3def2"
+bright_blue = "#87bcf0"
+bright_magenta = "#d8c4ee"

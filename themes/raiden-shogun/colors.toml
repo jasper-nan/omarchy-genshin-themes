@@ -1,0 +1,33 @@
+# Raiden Shogun 雷电将军 — 紫电 · 稻妻 · 永恒
+# 深紫底色 + 薰衣草紫强调 + 樱粉与鎏金点缀
+mode = "dark"
+
+accent = "#c9a0ff"
+selection = "#3a2d52"
+muted = "#5d5480"
+
+background = "#191224"
+dark_background = "#130e1c"
+darker_background = "#0d0913"
+lighter_background = "#251c36"
+
+foreground = "#ddd6ec"
+dark_foreground = "#7d7299"
+light_foreground = "#e6e0f2"
+bright_foreground = "#efe9fa"
+
+red = "#e88a9a"
+yellow = "#e9d18b"
+orange = "#e8b48a"
+green = "#a3d9a5"
+cyan = "#9ad6e0"
+blue = "#a3b5f5"
+magenta = "#d9a0f0"
+brown = "#8a6f5d"
+
+bright_red = "#f5a3b0"
+bright_yellow = "#f2dfa3"
+bright_green = "#b8e8ba"
+bright_cyan = "#b0e5ee"
+bright_blue = "#b8c7fa"
+bright_magenta = "#e5b8f7"

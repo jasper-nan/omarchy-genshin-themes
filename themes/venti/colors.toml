@@ -1,0 +1,33 @@
+# Venti 温迪 — 风色诗人 · 蒙德 · 千风之神
+# 深青底色 + 清风青绿强调 + 蒲公英蓝点缀
+mode = "dark"
+
+accent = "#7fd4c3"
+selection = "#1f3a3d"
+muted = "#4a6b6e"
+
+background = "#0d1a1c"
+dark_background = "#091314"
+darker_background = "#060d0e"
+lighter_background = "#132527"
+
+foreground = "#d3e4e2"
+dark_foreground = "#6a8a8b"
+light_foreground = "#deedeb"
+bright_foreground = "#e9f4f2"
+
+red = "#e89a94"
+yellow = "#e6d394"
+orange = "#e8b48c"
+green = "#a5d9a8"
+cyan = "#7fd4c3"
+blue = "#8fb4e0"
+magenta = "#c5a8d9"
+brown = "#8f7562"
+
+bright_red = "#f2b0aa"
+bright_yellow = "#eedea5"
+bright_green = "#b8e8ba"
+bright_cyan = "#a0e4d6"
+bright_blue = "#abc9ec"
+bright_magenta = "#d4c0e5"

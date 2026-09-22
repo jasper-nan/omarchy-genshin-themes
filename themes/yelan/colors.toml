@@ -1,0 +1,33 @@
+# Yelan 夜兰 — 玄天夜色 · 璃月 · 水
+# 靛夜底色 + 星蓝强调 + 紫罗兰点缀
+mode = "dark"
+
+accent = "#8fa8f0"
+selection = "#1e2235"
+muted = "#4c5470"
+
+background = "#0d0f1c"
+dark_background = "#090b15"
+darker_background = "#06070e"
+lighter_background = "#131729"
+
+foreground = "#d6dcf0"
+dark_foreground = "#6d7896"
+light_foreground = "#e0e5f5"
+bright_foreground = "#e6ebfa"
+
+red = "#e894a0"
+yellow = "#e5c98b"
+orange = "#e8ac85"
+green = "#98d1a8"
+cyan = "#7fc4d9"
+blue = "#8fa8f0"
+magenta = "#b48ce8"
+brown = "#85705e"
+
+bright_red = "#f2aab4"
+bright_yellow = "#eeda9e"
+bright_green = "#b0e0be"
+bright_cyan = "#98d8e8"
+bright_blue = "#a8bcf5"
+bright_magenta = "#c9a8f0"

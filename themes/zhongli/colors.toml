@@ -1,0 +1,33 @@
+# Zhongli 钟离 — 岩王帝君 · 璃月 · 天动万象
+# 玄岩底色 + 琥珀鎏金强调 + 玉衡青点缀
+mode = "dark"
+
+accent = "#e3b56d"
+selection = "#33291c"
+muted = "#6b5d45"
+
+background = "#171310"
+dark_background = "#110e0b"
+darker_background = "#0b0908"
+lighter_background = "#221c16"
+
+foreground = "#e5dbcb"
+dark_foreground = "#8a7d68"
+light_foreground = "#ede4d6"
+bright_foreground = "#f5efe3"
+
+red = "#e8927c"
+yellow = "#e9c777"
+orange = "#e8a768"
+green = "#a8c998"
+cyan = "#8fc4c4"
+blue = "#9cb0d9"
+magenta = "#c5a3d1"
+brown = "#a07d5c"
+
+bright_red = "#f2a894"
+bright_yellow = "#f2d992"
+bright_green = "#bddcb0"
+bright_cyan = "#a8d8d8"
+bright_blue = "#b3c5e8"
+bright_magenta = "#d4b8e0"
