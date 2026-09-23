@@ -38,11 +38,11 @@ feather() { # $1=in $2=out [$3=羽化px]
 }
 
 # 顶/底可读性暗带
-add_bands() { # $1=in $2=out
+add_bands() { # $1=in $2=out — 顶/底暗带 (gravity 必须显式! 否则落在 NorthWest/残留位置)
   magick -size ${W}x260 "gradient:${BAND}-none" "$TMP/top.png"
   magick -size ${W}x150 "gradient:none-${BAND}" "$TMP/bot.png"
-  magick "$1" "$TMP/top.png" -compose Over -composite \
-    "$TMP/bot.png" -compose Over -composite "$2"
+  magick "$1" "$TMP/top.png" -gravity North -compose Over -composite \
+    "$TMP/bot.png" -gravity South -compose Over -composite "$2"
 }
 
 mkdir -p "$OUT"
