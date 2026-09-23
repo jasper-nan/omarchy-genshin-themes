@@ -1,0 +1,33 @@
+# Kamisato Ayaka Dark 神里绫华·夜雪 — 霜月墨蓝 + 冰蓝强调 + 樱色点缀
+mode = "dark"
+
+accent = "#8fc8e8"
+selection = "#1b2836"
+muted = "#5a7285"
+
+background = "#0d141d"
+dark_background = "#0a1017"
+darker_background = "#070b10"
+lighter_background = "#131e2a"
+
+foreground = "#dde8f2"
+dark_foreground = "#6d8395"
+light_foreground = "#eef4fa"
+bright_foreground = "#f6fafd"
+
+red = "#d97a8a"
+yellow = "#e8d8a8"
+orange = "#e0a888"
+green = "#8fc9b8"
+cyan = "#8fd0dc"
+blue = "#88aee0"
+magenta = "#b895d8"
+brown = "#8a7868"
+
+bright_red = "#e89aa8"
+bright_yellow = "#f0e4c0"
+bright_orange = "#ecbc9c"
+bright_green = "#aedccb"
+bright_cyan = "#b0e0ea"
+bright_blue = "#a8c6ec"
+bright_magenta = "#d0b4e8"
