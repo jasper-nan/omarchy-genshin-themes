@@ -1,0 +1,33 @@
+# Keqing 刻晴 — 霆霓快雨 · 玉衡星
+# 兰紫罗兰底色 + 电光紫强调 (比雷神的深紫更明亮偏粉)
+mode = "dark"
+
+accent = "#c29af0"
+selection = "#2a2240"
+muted = "#5d5478"
+
+background = "#120f1a"
+dark_background = "#0c0a12"
+darker_background = "#070610"
+lighter_background = "#1a1626"
+
+foreground = "#e2dcf0"
+dark_foreground = "#7d7394"
+light_foreground = "#eae4f6"
+bright_foreground = "#f3eefa"
+
+red = "#e06a7a"
+yellow = "#e8cf7a"
+orange = "#e0966a"
+green = "#8fc98f"
+cyan = "#7fc4d9"
+blue = "#8f9fe0"
+magenta = "#c29af0"
+brown = "#8a7560"
+
+bright_red = "#f28a98"
+bright_yellow = "#f2dd96"
+bright_green = "#a8dba8"
+bright_cyan = "#98d8ea"
+bright_blue = "#aab8f0"
+bright_magenta = "#d4b4f5"

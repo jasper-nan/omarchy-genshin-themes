@@ -1,0 +1,33 @@
+# Jean 琴 — 蒲公英骑士 · 西风骑士团代理团长
+# 深石板蓝底色 + 蒲公英天青强调 + 骑士白金点缀
+mode = "dark"
+
+accent = "#8fc4d9"
+selection = "#1d2a38"
+muted = "#4c5c6c"
+
+background = "#0e151c"
+dark_background = "#0a0f14"
+darker_background = "#06090d"
+lighter_background = "#151e28"
+
+foreground = "#dbe5ea"
+dark_foreground = "#72828f"
+light_foreground = "#e5edf2"
+bright_foreground = "#eef4f8"
+
+red = "#d97a7a"
+yellow = "#e8d9a0"
+orange = "#d9a06a"
+green = "#8fc9a8"
+cyan = "#8fc4d9"
+blue = "#7a9fc9"
+magenta = "#b48cc9"
+brown = "#8a7560"
+
+bright_red = "#ea9696"
+bright_yellow = "#f2e6b8"
+bright_green = "#a8dbc0"
+bright_cyan = "#aadcec"
+bright_blue = "#93b5d9"
+bright_magenta = "#c9a8da"

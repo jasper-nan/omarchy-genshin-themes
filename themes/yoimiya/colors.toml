@@ -1,0 +1,33 @@
+# Yoimiya 宵宫 — 长野原烟花店 · 夏祭的女王
+# 暖夜棕黑底色 + 烟花金橙强调 + 祭典红点缀
+mode = "dark"
+
+accent = "#f0a35c"
+selection = "#33231a"
+muted = "#6e5a48"
+
+background = "#18100c"
+dark_background = "#100b08"
+darker_background = "#0a0705"
+lighter_background = "#221812"
+
+foreground = "#f0e2d4"
+dark_foreground = "#94806f"
+light_foreground = "#f6eae0"
+bright_foreground = "#faf2ea"
+
+red = "#e86a5a"
+yellow = "#f0cf7a"
+orange = "#f0925c"
+green = "#9fc98f"
+cyan = "#7fc4b8"
+blue = "#8fa8d9"
+magenta = "#d98cb4"
+brown = "#a87858"
+
+bright_red = "#f58a78"
+bright_yellow = "#f5dd96"
+bright_green = "#b5dba5"
+bright_cyan = "#98d8cc"
+bright_blue = "#aabce8"
+bright_magenta = "#e8a5c9"
